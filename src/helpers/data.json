@@ -1,0 +1,31 @@
+{
+    "frameworks":[
+        {
+        "id":1,
+        "name": "React",
+        "web":"www.react.com"
+        },
+                {
+        "id":2,
+        "name": "Angular",
+        "web":"www.angular.com"
+        },
+                {
+        "id":3,
+        "name": "Vue",
+        "web":"www.vue.com"
+        },
+        {
+        "id":4,
+        "name": "Svelte",
+        "web":"www.svelte.com"
+        },
+                {
+        "id":5,
+        "name": "Gatsby",
+        "web":"www.gatsby.com"
+        }
+
+    ]
+
+}
